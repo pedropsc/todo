@@ -1,5 +1,5 @@
 {
-  "name": "proj",
+  "name": "pdslogin",
   "private": true,
   "scripts": {
     "start": "meteor run",
